@@ -10,14 +10,14 @@ class mr(object):
 
     ABOUT_TXT = """
 ╭───────────⍟
-├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/hxbots>@HxBots</a> 
-├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://github.com/oVo-HxBots>oVo-HxBots</a>
-├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>Pyrogram</a>
-├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>Python 3</a>
-├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://cloud.mongodb.com>MongoDB</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://dashboard.render.com>Render</a>
-├📊 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂 : v3.6.8 [ 𝙼𝙰𝙹𝙾𝚁 ]              
+├🤖 My Name : {}
+├👑 Developers : <a href=https://t.me/Chowdhury_Siam</a> 
+├👨‍💻 Programer : <a href=https://t.me/Chowdhury_Siam</a>
+├📕 Library : <a href=https://github.com/pyrogram>Pyrogram</a>
+├✏️ Language : <a href=https://www.python.org>Python 3</a>
+├💾 Data Base : <a href=https://cloud.mongodb.com>MongoDB</a>
+├🌀 My Channel : <a href=https://t.me/Anime_Kun_Channel</a>
+├📊 Build Staus : v3.6.8 [ 𝙼𝙰𝙹𝙾𝚁 ]              
 ╰───────────────⍟
                                 """
     HELP_TXT = """
@@ -37,18 +37,17 @@ Example:- /set_caption 📕 File Name: {filename}
 ⏰ Duration: {duration}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
-•> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/HxSupport>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
+•> Send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
+ℹ️ Our Main Channel :- <a href=https://t.me/Anime_Kun_Channel>Main Channel</a>
 """
-
-#⚠️ don't remove our credits 🙏😢😢
+    
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/oVo-HxBots/RENAME-PRO>𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://youtu.be/>HxBots</a>
+» Owner : <a href=https://t.me/Chowdhury_Siam>Siam Chowdhury</a>
+» Owner Channel : <a href=https://t.me/Anime_Kun_Channel</a>
 
-• ❣️ <a href=https://github.com/oVo-HxBots>oVo-HxBots</a>
-• ❣️ <a href=https://t.me/Kirodewal>Kirodewal</a>
-• ❣️ <a href=https://youtube.com/@hxbots>HxBots YT</a>
+• ❣️ <a href=https://github.com/Siam19395>Siam Chowdhury</a>
+• ❣️ <a href=https://t.me/Chowdhury_Siam>Siam Chowdhury</a>
+• ❣️ <a href=https://t.me/Anime_Kun_Channel>Anime Kun</a>
 """
