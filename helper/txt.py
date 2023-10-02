@@ -11,12 +11,12 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 My Name : {}
-├👑 Developers : <a href=https://t.me/Chowdhury_Siam</a> 
-├👨‍💻 Programer : <a href=https://t.me/Chowdhury_Siam</a>
+├👑 Developers : <a href=https://t.me/Chowdhury_Siam>Siam Chowdhury</a> 
+├👨‍💻 Programer : <a href=https://t.me/Chowdhury_Siam>Siam Chowdhury</a>
 ├📕 Library : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ Language : <a href=https://www.python.org>Python 3</a>
 ├💾 Data Base : <a href=https://cloud.mongodb.com>MongoDB</a>
-├🌀 My Channel : <a href=https://t.me/Anime_Kun_Channel</a>
+├🌀 My Channel : <a href=https://t.me/Anime_Kun_Channel>Anime Kun</a>
 ├📊 Build Staus : v3.6.8 [ Major ]              
 ╰───────────────⍟
                                 """
@@ -42,10 +42,10 @@ Example:- /set_caption 📕 File Name: {filename}
 """
     
     DEV_TXT = """
-<b><u>Special Thanks & Developers</b></u> 
+<b><u>Special Thanks to Developers</b></u> 
 
 » Owner : <a href=https://t.me/Chowdhury_Siam>Siam Chowdhury</a>
-» Owner Channel : <a href=https://t.me/Anime_Kun_Channel</a>
+» Owner Channel : <a href=https://t.me/Anime_Kun_Channel>Anime Kun</a>
 
 • ❣️ <a href=https://github.com/Siam19395>Siam Chowdhury</a>
 • ❣️ <a href=https://t.me/Chowdhury_Siam>Siam Chowdhury</a>
