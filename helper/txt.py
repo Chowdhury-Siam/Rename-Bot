@@ -17,7 +17,7 @@ class mr(object):
 ├✏️ Language : <a href=https://www.python.org>Python 3</a>
 ├💾 Data Base : <a href=https://cloud.mongodb.com>MongoDB</a>
 ├🌀 My Channel : <a href=https://t.me/Anime_Kun_Channel</a>
-├📊 Build Staus : v3.6.8 [ 𝙼𝙰𝙹𝙾𝚁 ]              
+├📊 Build Staus : v3.6.8 [ Major ]              
 ╰───────────────⍟
                                 """
     HELP_TXT = """
