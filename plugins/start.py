@@ -14,7 +14,7 @@ async def start(client, message):
     user = message.from_user
     if not await db.is_user_exist(user.id):
         await db.add_user(user.id)             
-    txt=f"👋 Hi!! {user.mention} \nI'm Rin Toosaka and I'm a File Rename And File To Video Converter Bot With Permanent Thumbnail And Custom Caption Support!"
+    txt=f"👋 Hi!! {user.mention} \nWe are Nakano Sisters and We are a File Rename And File To Video Converter Bot With Permanent Thumbnail And Custom Caption Support!"
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("👼 Devs 👼", callback_data='dev')
         ],[
